@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Sardor Sobirov
-ssobirov@ucsd.edu
+Sardor Sobirov and Diego Arevalo Fernandez
+
